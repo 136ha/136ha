@@ -25,13 +25,14 @@ Here are some ideas to get you started:
 - Machine Learning
 - Deep Learning
 - ⚡NLP
-- ⚡Stock investment
+- ⚡Stock Investment
 
 <div align=center>
 
-[![Tistory Blog Badge](https://tfrecord.tistory.com/](https://136ha.github.io/) 
-[![Dacon Badge](https://dacon.io/myprofile/406888/home/]_
+[![Tistory Blog Badge](https://tfrecord.tistory.com/](https://tfrecord.tistory.com/) 
+[![Dacon Badge](https://dacon.io/myprofile/406888/home/](https://dacon.io/myprofile/406888/home/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:requests.selenium@gmail.com)](mailto:requests.selenium@gmail.com)
+
 </div>
 
 ### Data Analysis Competition
