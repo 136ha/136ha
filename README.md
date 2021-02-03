@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 🌱Student learning about Data analysis
 
 </div>
+</div>
 
 ### Interest
 - Machine Learning
@@ -32,6 +33,7 @@ Here are some ideas to get you started:
 - ⚡NLP
 - ⚡Stock Investment
 
+</div>
 </div>
 
 ### Data Analysis Competition
