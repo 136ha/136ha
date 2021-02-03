@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <div align=center>
 
 [![Tistory Blog Badge](http://img.shields.io/badge/-Tistory%20blog-black?style=flat-square&logo=tistory&link=https://tfrecord.tistory.com/)](https://tfrecord.tistory.com/) 
-[![Dacon Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=dacon&logoColor=white&link=https://https://dacon.io/myprofile/406888/home/)](https://dacon.io/myprofile/406888/home/)
+[![Dacon Badge](https://img.shields.io/badge/-Dacon-blue?style=flat-square&logo=dacon&logoColor=white&link=https://https://dacon.io/myprofile/406888/home/)](https://dacon.io/myprofile/406888/home/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:requests.selenium@gmail.com)](mailto:requests.selenium@gmail.com)
 
 </div>
