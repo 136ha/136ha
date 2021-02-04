@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### Interest
 - Machine Learning
 - Deep Learning
-- ⚡NLP
+- ⚡Especially NLP
 - ⚡Stock Investment
 
 </div>
