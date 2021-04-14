@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ### Data Analyst
 - 🌱Student learning about Data analysis
-- Analyze servey data for Komma data marketing
-- Analyze log data in Woori Finance Information System
+- Analyze servey data for data marketing in Komma
+- Analyze authentication log data in Woori Finance Information System
 
 </div>
 </div>
