@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ### Data Analyst
 - 🌱Student learning about Data analysis
+- Analyze servey data for Komma data marketing
+- Analyze log data in Woori Finance Information System
 
 </div>
 </div>
@@ -46,3 +48,4 @@ Here are some ideas to get you started:
 - 시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회 (60등 / 418)
 - AI야, 진짜 뉴스를 찾아줘! AI 경진대회 (14등 / 192)
 - 운동 동작분류 AI 경진대회 (32등 / 336)
+- 모션 키포인트 검출 AI 경진대회 (46등 / 156)
