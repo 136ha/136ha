@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 </div>
 
 ### Data Analysis Competition
+- 데이콘 유저 대회 랭킹 67위 / 코드 랭킹 12위 / 토론 랭킹 14위
 - 단국대 소중 데이터 분석 AI 경진대회 (7등/54)
 - NLP 분석을 이용한 증시지표 예측 경진대회 (1등/?)
 - 소설 작가 분류 AI 경진대회 (4등/287)
@@ -49,6 +50,5 @@ Here are some ideas to get you started:
 - AI야, 진짜 뉴스를 찾아줘! AI 경진대회 (14등 / 192)
 - 운동 동작분류 AI 경진대회 (32등 / 336)
 - 모션 키포인트 검출 AI 경진대회 (46등 / 156)
-- 데이콘 유저 대회 랭킹 67위 / 코드 랭킹 12위 / 토론 랭킹 14위
 
 
