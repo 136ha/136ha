@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 ### Data Analyst
 - 🌱Student learning about Data analysis
-- Analyze servey data for data marketing in Komma
-- Analyze authentication log data in Woori Finance Information System
 
 </div>
 </div>
@@ -34,6 +32,13 @@ Here are some ideas to get you started:
 - Deep Learning
 - ⚡Especially NLP
 - ⚡Stock Investment
+
+</div>
+</div>
+
+### Projects
+- Analyze servey data for data marketing in Komma
+- Analyze authentication log data in Woori Finance Information System
 
 </div>
 </div>
