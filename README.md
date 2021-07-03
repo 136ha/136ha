@@ -37,14 +37,14 @@ Here are some ideas to get you started:
 </div>
 
 ### Projects
-- Analyze servey data for data marketing in Komma
+- Analyze servey data for marketing in Komma
 - Analyze authentication log data in Woori Finance Information System
 
 </div>
 </div>
 
 ### Data Analysis Competition
-- 데이콘 유저: 대회 랭킹 51위 / 코드 랭킹 7위 / 토론 랭킹 9위
+- 데이콘 유저 최고랭킹: 대회 랭킹 51위 / 코드 랭킹 7위 / 토론 랭킹 9위
 - 단국대 소중 데이터 분석 AI 경진대회 (7등/54)
 - NLP 분석을 이용한 증시지표 예측 경진대회 (1등/?)
 - 소설 작가 분류 AI 경진대회 (4등/287)
