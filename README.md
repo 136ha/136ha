@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 </div>
 
 ### Data Analyst
-- 🌱Student learning about Data analysis
+- 🌱Student Learning about Data Analysis (~ 2021)
+- Data Scientist in Moiber (~ Now)
 
 </div>
 </div>
