@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Data Analyst
 - 🌱Student Learning about Data Analysis (~ 2021)
-- Data Scientist in Moiber (~ Now)
+- Data Scientist in Moiber (2021.08.02 ~ 2021.01.25)
 
 </div>
 </div>
